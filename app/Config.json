@@ -1,0 +1,5 @@
+{
+    "NetConfigs":{"Ip": "127.0.0.1", "Port": 25678, "MaxClients": 3},
+    "PluginsDir": "E:/Codigo/others/CMDM/server/plugins/",
+    "Plugins": {}
+}

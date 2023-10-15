@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/CVS": false,
+    "*.git": false,
+    "*.git.*": false,
+    "*.vscode": false,
+    "*.vscode.*": false,
+    "*app": false,
+    "*app.*": false,
+    "*__pycache__": false,
+    "*__pycache__.*": false
+  }
+}
